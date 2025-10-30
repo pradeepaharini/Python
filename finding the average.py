@@ -1,3 +1,4 @@
+#Code Author: Pradeepa Harini B
 def average():
   total = 0
   count = 0
