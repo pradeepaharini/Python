@@ -1,4 +1,4 @@
-#Code author: Pradeepa Harini B
+#Code Author: Pradeepa Harini B
 import time
 
 # Decorator to log function start time and end time
