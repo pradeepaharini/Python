@@ -1,4 +1,4 @@
-#Code author: Pradeepa Harini B
+#Code Author: Pradeepa Harini B
 import math
 
 # Function to compute Euclidean distance between two 3D points
