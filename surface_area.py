@@ -1,3 +1,4 @@
+#Code author: Pradeepa Harini B
 import math
 
 # Function to compute Euclidean distance between two 3D points
@@ -41,4 +42,4 @@ triangles = read_stl(file_path)
 
 # Compute total surface area
 total_area = sum(heron_area(tri) for tri in triangles)
-print(f"Total Surface Area of STL: {total_area:.5f} square units")
+print(f"Total Surface Area of STL: {total_area:.6f} square units")
