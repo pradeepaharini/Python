@@ -34,7 +34,7 @@ def average(*args: int) -> float | None:
 
 # Now let's test the decorated function
 c = average(5, 5, 5, 5, 5) + average(10, 10)
-print(f"The value of c is {c}")
+print(f"The value of c is {c}\n")
 
 d = average(4,-4)
-print(f"The value of d is {d}")
+print(f"The value of d is {d}\n")
